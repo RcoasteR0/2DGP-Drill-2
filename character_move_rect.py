@@ -1,8 +1,5 @@
 from pico2d import *
-import os
 import math
-
-os.chdir('C:\\Git\\2DGP\\2DGP-Drill-2')
 
 open_canvas()
 
